@@ -1,0 +1,2 @@
+# This file is used for setting up conda environment for machine learning 
+# To set up the environment, clone the repository, execute the the .yaml file as ==> conda env create env_setup.yaml
